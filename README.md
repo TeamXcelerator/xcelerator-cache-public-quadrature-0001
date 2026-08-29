@@ -17,8 +17,13 @@ Gauss-Legendre rules and quadrature validation data.
 Artifact kinds assigned to this family:
 
 - `gauss_legendre_rule`
+- `quadrature_rule`
 - `quadrature_reference_table`
 - `quadrature_validation`
+
+This shard's routing metadata is synchronized with Xcelerator Toolkit v0.14.1.
+Listing a kind permits validated publication; it does not assert that an
+artifact of that kind is currently present.
 
 ## Layout
 
